@@ -10,7 +10,6 @@ This project provides an interactive analysis of COVID-19 trends across various 
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Visualizations](#visualizations)
 - [Known Issues](#known-issues)
 - [Future Work](#future-work)
@@ -93,9 +92,9 @@ The goal of this project is to provide a dynamic and interactive way to explore 
     └── LICENSE
 
 ### Line Chart
-![Line Chart]("Covid19-Interactive-Analysis\Line.png")
+![Line Chart](Covid19-Interactive-Analysis\Line.png)
 ### Geospatial Map
-![Geospatial Map]("Covid19-Interactive-Analysis\Folium.png")
+![Geospatial Map](Covid19-Interactive-Analysis\Folium.png)
 
 ## Visualizations
 ### Line Charts
