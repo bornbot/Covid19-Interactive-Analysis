@@ -80,21 +80,18 @@ The goal of this project is to provide a dynamic and interactive way to explore 
 
 ## Project Structure
     
-    covid19-interactive-analysis/
+        covid19-interactive-analysis/
     ├── data/
     │   └── covid19_india_data.csv
-    ├── screenshots/
-    │   ├── line_chart.png
-    │   └── folium_map.png
+    ├── line_chart.png
+    ├── folium_map.png
     ├── visuals/
     │   └── india_covid19_map.html
     ├── Covid-19.ipynb
-    ├── CONTRIBUTING.md
     ├── README.md
     ├── requirements.txt
     └── LICENSE
 
-## Screenshots
 ### Line Chart
 ![Line Chart]("Covid19-Interactive-Analysis\Line.png")
 ### Geospatial Map
