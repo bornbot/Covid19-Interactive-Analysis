@@ -82,8 +82,8 @@ The goal of this project is to provide a dynamic and interactive way to explore 
         covid19-interactive-analysis/
     ├── data/
     │   └── covid19_india_data.csv
-    ├── line_chart.png
-    ├── folium_map.png
+    ├── line.png
+    ├── folium.png
     ├── visuals/
     │   └── india_covid19_map.html
     ├── Covid-19.ipynb
@@ -92,7 +92,7 @@ The goal of this project is to provide a dynamic and interactive way to explore 
     └── LICENSE
 
 ### Line Chart
-![Line Chart](Covid19-Interactive-Analysis\Line.png)
+![Line Chart](C:\Users\HP\Downloads\GIT\Projects\Covid19-Interactive-Analysis\Line.png)
 ### Geospatial Map
 ![Geospatial Map](Covid19-Interactive-Analysis\Folium.png)
 
