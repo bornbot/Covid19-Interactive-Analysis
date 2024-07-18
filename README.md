@@ -77,9 +77,9 @@ The goal of this project is to provide a dynamic and interactive way to explore 
 3. Follow the instructions in the notebook to create interactive line charts and a Folium map.
 
 ### Line Chart
-![Line Chart](Covid19-Interactive-Analysis\Line.png)
+![Line Chart](Line.png)
 ### Geospatial Map
-![Geospatial Map](Covid19-Interactive-Analysis\Folium.png)
+![Geospatial Map](Folium.png)
 
 ## Visualizations
 ### Line Charts
