@@ -9,7 +9,6 @@ This project provides an interactive analysis of COVID-19 trends across various 
 - [Features](#features)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Visualizations](#visualizations)
 - [Known Issues](#known-issues)
 - [Future Work](#future-work)
@@ -77,22 +76,8 @@ The goal of this project is to provide a dynamic and interactive way to explore 
 
 3. Follow the instructions in the notebook to create interactive line charts and a Folium map.
 
-## Project Structure
-    
-        covid19-interactive-analysis/
-    ├── data/
-    │   └── covid19_india_data.csv
-    ├── line.png
-    ├── folium.png
-    ├── visuals/
-    │   └── india_covid19_map.html
-    ├── Covid-19.ipynb
-    ├── README.md
-    ├── requirements.txt
-    └── LICENSE
-
 ### Line Chart
-![Line Chart](C:\Users\HP\Downloads\GIT\Projects\Covid19-Interactive-Analysis\Line.png)
+![Line Chart](Covid19-Interactive-Analysis\Line.png)
 ### Geospatial Map
 ![Geospatial Map](Covid19-Interactive-Analysis\Folium.png)
 
